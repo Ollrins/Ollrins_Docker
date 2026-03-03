@@ -119,22 +119,23 @@
 <p align="center">
   <img src="screenshots2/6v1.png" alt="docker cp" width="800"/>
   <br>
-  <em>Рисунок 14 - Скриншот docker cp/em>
+  <em>Рисунок 14 - Скриншот docker cp </em>
 </p>
 
 ## Задание 6.2
 <p align="center">
   <img src="screenshots2/6_2v1.png" alt="docker build и Dockerfile" width="800"/>
   <br>
-  <em>Рисунок 14 - Скриншот docker build и Dockerfile/em>
+  <em>Рисунок 14 - Скриншот docker build и Dockerfile </em>
 </p>
 
 ## Задание 7
 <p align="center">
-  <img src="screenshots2/7v1.png" alt="runC" width="800"/>
+  <img src="screenshots2/7v2.png" alt="runC" width="800"/>
   <br>
-  <em>Рисунок 14 - Скриншот runC/em>
+  <em>Рисунок 14 - Скриншот runC </em>
 </p>
+
 
 
 
