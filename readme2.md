@@ -21,7 +21,7 @@
 <p align="center">
   <img src="screenshots2/build-single.png" alt="Сборка single stage образа" width="900"/>
   <br>
-  <em>Рисунок 3 - Сборка образа командой docker build -f Dockerfile.python -t test-app .  Проверка работы приложения через curl http://localhost:5000 (получено предупреждение о неверном порте)</em>
+  <em>Рисунок 3 - Сборка образа командой docker build -f Dockerfile.python -t test-app . </em>
 </p>
 
 ### 4. Multistage сборка
@@ -135,6 +135,7 @@
   <br>
   <em>Рисунок 14 - Скриншот runC </em>
 </p>
+
 
 
 
