@@ -37,70 +37,56 @@
   <em>Рисунок 5 - Сборка multistage образа test-app-multi</em>
 </p>
 
-### 5. Запуск через docker-compose
-<p align="center">
-  <img src="screenshots2/compose-yaml.png" alt="compose.yaml файл" width="800"/>
-  <br>
-  <em>Рисунок 6 - Файл compose.yaml для запуска MySQL и приложения</em>
-</p>
-### 3.Проверка работы приложения через curl 
-<p align="center">
-  <img src="screenshots2/curl-5000.png" alt="Сборка single stage образа" width="900"/>
-  <br>
-  <em>Рисунок 7 -  Проверка работы приложения через curl http://localhost:5000 (получено предупреждение о неверном порте)</em>
-</p>
-
-
-### 6. ✨ Запуск с venv (без Docker)
+### 5. ✨ Запуск с venv (без Docker)
 <p align="center">
   <img src="screenshots2/mysql-container.png" alt="Запуск MySQL контейнера" width="900"/>
   <br>
-  <em>Рисунок 8 - Запуск MySQL в контейнере для локальной разработки. Создание и активация виртуального окружения, установка зависимостей. </em>
+  <em>Рисунок 6 - Запуск MySQL в контейнере для локальной разработки. Создание и активация виртуального окружения, установка зависимостей. </em>
 </p>
 
 <p align="center">
   <img src="screenshots2/venv-run.png" alt="Запуск приложения через venv" width="900"/>
   <br>
-  <em>Рисунок 9 - Запуск приложения через uvicorn на порту 5001 (подключение к БД успешно)</em>
+  <em>Рисунок 7 - Запуск приложения через uvicorn на порту 5001 (подключение к БД успешно)</em>
 </p>
 
 <p align="center">
   <img src="screenshots2/venv-curl.png" alt="Проверка через curl" width="800"/>
   <br>
-  <em>Рисунок 15 - Проверка работы приложения через curl (получено предупреждение)</em>
+  <em>Рисунок 8 - Проверка работы приложения через curl (получено предупреждение)</em>
 </p>
 
-### 7. ✨ Добавление ENV переменной DB_TABLE
+### 6. ✨ Добавление ENV переменной DB_TABLE
 <p align="center">
   <img src="screenshots2/main-py-config.png" alt="Изменение конфигурации в main.py" width="850"/>
   <br>
-  <em>Рисунок 10 - Добавление переменной db_table в секцию конфигурации</em>
+  <em>Рисунок 9 - Добавление переменной db_table в секцию конфигурации</em>
 </p>
 
 <p align="center">
   <img src="screenshots2/custom-table-start.png" alt="Запуск с кастомной таблицей" width="900"/>
   <br>
-  <em>Рисунок 11 - Запуск приложения с DB_TABLE='my_custom_table' (таблица создана)</em>
+  <em>Рисунок 10 - Запуск приложения с DB_TABLE='my_custom_table' (таблица создана)</em>
 </p>
 
 <p align="center">
   <img src="screenshots2/custom-table-curl.png" alt="Проверка с кастомной таблицей" width="800"/>
   <br>
-  <em>Рисунок 12 - Проверка работы с кастомной таблицей через curl</em>
+  <em>Рисунок 11 - Проверка работы с кастомной таблицей через curl</em>
 </p>
 
 ## Задание 2
 <p align="center">
   <img src="2_v.png" alt="Отчет сканирования" width="800"/>
   <br>
-  <em>Рисунок 13 - Отчет сканирования</em>
+  <em>Рисунок 12 - Отчет сканирования</em>
 </p>
 
 ## Задание 3
 <p align="center">
   <img src="3_v.png" alt="Скриншот sql-запроса" width="800"/>
   <br>
-  <em>Рисунок 14 -Скриншот sql-запроса</em>
+  <em>Рисунок 13 -Скриншот sql-запроса</em>
 </p>
 
 ## Задание 6
@@ -112,7 +98,7 @@
 <p align="center">
   <img src="screenshots2/6_terraform.png" alt="Скриншот terraform" width="800"/>
   <br>
-  <em>Рисунок 14 - Скриншот terraform</em>
+  <em>Рисунок 15 - Скриншот terraform</em>
 </p>
 
 ## Задание 6.1
@@ -135,6 +121,7 @@
   <br>
   <em>Рисунок 14 - Скриншот runC </em>
 </p>
+
 
 
 
