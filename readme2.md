@@ -39,7 +39,7 @@
 
 ### 5. ✨ Запуск с venv (без Docker)
 <p align="center">
-  <img src="screenshots2/mysql-container.png" alt="Запуск MySQL контейнера" width="900"/>
+  <img src="screenshots2/mysql-container1.png" alt="Запуск MySQL контейнера" width="900"/>
   <br>
   <em>Рисунок 6 - Запуск MySQL в контейнере для локальной разработки. Создание и активация виртуального окружения, установка зависимостей. </em>
 </p>
@@ -144,6 +144,7 @@
     <br>
   <em>Рисунок 21 - Скриншот runC, дальше не получилось </em>
 </p>
+
 
 
 
