@@ -91,14 +91,14 @@
 
 ## Задание 4
 <p align="center">
-  <img src="4v.png" alt="Скриншот sql-запроса" width="800"/>
+  <img src="screenshots2/4v.png" alt="Скриншот sql-запроса" width="800"/>
   <br>
   <em>Рисунок 14 -Скриншот sql-запроса</em>
   <em>Ссылка на fork https://github.com/Ollrins/shvirtd-example-python.git</em>
 </p>
 ## Необязательная часть
 <p align="center">
-  <img src="4v5.png" alt="Remote ssh context" width="800"/>
+  <img src="screenshots2/4v5.png" alt="Remote ssh context" width="800"/>
   <br>
   <em>Рисунок 14 - Remote ssh context</em>
 </p>
@@ -135,6 +135,7 @@
   <br>
   <em>Рисунок 14 - Скриншот runC </em>
 </p>
+
 
 
 
