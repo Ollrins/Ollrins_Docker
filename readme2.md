@@ -93,7 +93,7 @@
 <p align="center">
   <img src="screenshots2/4v.png" alt="Скриншот sql-запроса" width="800"/>
   <br>
-  <em>Рисунок 14 - Скриншот sql-запроса</em>
+  <em>Рисунок 14 - Скриншот sql-запроса</em>  <br>
   <em>Ссылка на fork https://github.com/Ollrins/shvirtd-example-python.git</em>
 </p>
 ## Необязательная часть
@@ -107,7 +107,7 @@
 <p align="center">
   <img src="screenshots2/5v2.png" alt="Скрипт, cron-task и скриншот с несколькими резервными копиями в "/opt/backup" width="800"/>
   <br>
-  <em>Рисунок 16 - Скрипт, cron-task и скриншот с несколькими резервными копиями в "/opt/backup" (из образа из образа schnitzler/mysqldump не получилось) </em>
+  <em>Рисунок 16 - Скрипт, cron-task и скриншот с несколькими резервными копиями в "/opt/backup" (из образа schnitzler/mysqldump не получилось) </em>
 </p>
 
 ## Задание 6
@@ -142,6 +142,7 @@
   <br>
   <em>Рисунок 21 - Скриншот runC, дальше не получилось </em>
 </p>
+
 
 
 
