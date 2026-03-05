@@ -86,55 +86,63 @@
 <p align="center">
   <img src="3_v.png" alt="Скриншот sql-запроса" width="800"/>
   <br>
-  <em>Рисунок 13 -Скриншот sql-запроса</em>
+  <em>Рисунок 13 - Скриншот sql-запроса</em>
 </p>
 
 ## Задание 4
 <p align="center">
   <img src="screenshots2/4v.png" alt="Скриншот sql-запроса" width="800"/>
   <br>
-  <em>Рисунок 14 -Скриншот sql-запроса</em>
+  <em>Рисунок 14 - Скриншот sql-запроса</em>
   <em>Ссылка на fork https://github.com/Ollrins/shvirtd-example-python.git</em>
 </p>
 ## Необязательная часть
 <p align="center">
   <img src="screenshots2/4v5.png" alt="Remote ssh context" width="800"/>
   <br>
-  <em>Рисунок 14 - Remote ssh context</em>
+  <em>Рисунок 15 - Remote ssh context</em>
+</p>
+
+## Задание 5
+<p align="center">
+  <img src="screenshots2/5v2.png" alt="Скрипт, cron-task и скриншот с несколькими резервными копиями в "/opt/backup" width="800"/>
+  <br>
+  <em>Рисунок 16 - Скрипт, cron-task и скриншот с несколькими резервными копиями в "/opt/backup" (из образа из образа schnitzler/mysqldump не получилось) </em>
 </p>
 
 ## Задание 6
 <p align="center">
   <img src="screenshots2/6_dive.png" alt="dive" width="800"/>
   <br>
-  <em>Рисунок 14 -Скриншот dive</em>
+  <em>Рисунок 17 -Скриншот dive</em>
 </p>
 <p align="center">
   <img src="screenshots2/6_terraform.png" alt="Скриншот terraform" width="800"/>
   <br>
-  <em>Рисунок 15 - Скриншот terraform</em>
+  <em>Рисунок 18 - Скриншот terraform</em>
 </p>
 
 ## Задание 6.1
 <p align="center">
   <img src="screenshots2/6v1.png" alt="docker cp" width="800"/>
   <br>
-  <em>Рисунок 14 - Скриншот docker cp </em>
+  <em>Рисунок 19 - Скриншот docker cp </em>
 </p>
 
 ## Задание 6.2
 <p align="center">
   <img src="screenshots2/6_2v1.png" alt="docker build и Dockerfile" width="800"/>
   <br>
-  <em>Рисунок 14 - Скриншот docker build и Dockerfile </em>
+  <em>Рисунок 20 - Скриншот docker build и Dockerfile </em>
 </p>
 
 ## Задание 7
 <p align="center">
   <img src="screenshots2/7v2.png" alt="runC" width="800"/>
   <br>
-  <em>Рисунок 14 - Скриншот runC </em>
+  <em>Рисунок 21 - Скриншот runC, дальше не получилось </em>
 </p>
+
 
 
 
