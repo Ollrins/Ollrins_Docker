@@ -89,6 +89,20 @@
   <em>Рисунок 13 -Скриншот sql-запроса</em>
 </p>
 
+## Задание 4
+<p align="center">
+  <img src="4v.png" alt="Скриншот sql-запроса" width="800"/>
+  <br>
+  <em>Рисунок 14 -Скриншот sql-запроса</em>
+  <em>Ссылка на fork https://github.com/Ollrins/shvirtd-example-python.git</em>
+</p>
+## Необязательная часть
+<p align="center">
+  <img src="4v5.png" alt="Remote ssh context" width="800"/>
+  <br>
+  <em>Рисунок 14 - Remote ssh context</em>
+</p>
+
 ## Задание 6
 <p align="center">
   <img src="screenshots2/6_dive.png" alt="dive" width="800"/>
@@ -121,6 +135,7 @@
   <br>
   <em>Рисунок 14 - Скриншот runC </em>
 </p>
+
 
 
 
