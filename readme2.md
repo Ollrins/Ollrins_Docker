@@ -114,7 +114,7 @@
 <p align="center">
   <img src="screenshots2/6_dive.png" alt="dive" width="800"/>
   <br>
-  <em>Рисунок 17 -Скриншот dive</em>
+  <em>Рисунок 17 -Скриншот dive, вроде что-то пошло не так)</em>
 </p>
 <p align="center">
   <img src="screenshots2/6_terraform.png" alt="Скриншот terraform" width="800"/>
@@ -138,10 +138,13 @@
 
 ## Задание 7
 <p align="center">
-  <img src="screenshots2/7v2.png" alt="runC" width="800"/>
+  <img src="screenshots2/7vС.png" alt="runC" width="800"/>
   <br>
+  <img src="screenshots2/7v2.png" alt="runC" width="800"/>
+    <br>
   <em>Рисунок 21 - Скриншот runC, дальше не получилось </em>
 </p>
+
 
 
 
