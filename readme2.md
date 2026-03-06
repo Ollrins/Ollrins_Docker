@@ -140,10 +140,13 @@
 <p align="center">
   <img src="screenshots2/7vC.png" alt="runC" width="800"/>
   <br>
+  <img src="screenshots2/8v.png" alt="runC" width="800"/>
+  <br>
   <img src="screenshots2/7v2.png" alt="runC" width="800"/>
     <br>
   <em>Рисунок 21 - Скриншот runC, дальше не получилось </em>
 </p>
+
 
 
 
