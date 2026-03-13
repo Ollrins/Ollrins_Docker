@@ -512,8 +512,19 @@ sudo chmod 600 /opt/backup-config.env
 sudo chown root:root /opt/backup-config.env
  ```
 2. Скрипт резервного копирования /opt/backup.sh
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ```bash
+#!/bin/bash
+
+source /opt/backup-config.env
+
+BACKUP_FILE="${BACKUP_DIR}/backup_${DB_NAME}_$(date +"%Y%m%d_%H%M%S").sql"
+
+docker run --rm \
+  --network "$CONTAINER_NETWORK" \
+  -v "${BACKUP_DIR}:/backup" \
+  mysql:8 \
+  mysqldump -h "$DB_HOST" -u "$DB_USER" -p"$DB_PASSWORD" "$DB_NAME" > "$BACKUP_FILE"
+
  ```
 #### Сделать скрипт исполняемым
 ```bash
@@ -644,6 +655,7 @@ DOCKER_BUILDKIT=1 docker build --output type=local,dest=./output -t terraform-ex
 chmod +x terraform
 ./terraform --version 
  ```
+
 
 
 
